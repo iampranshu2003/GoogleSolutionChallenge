@@ -1,0 +1,39 @@
+com.example.solutionchallengeapp-annotation-experimental-1.3.0-0 C:\Users\pranshu gupta\.gradle\caches\transforms-3\01383164a5af1e3d23477d8d8904e961\transformed\annotation-experimental-1.3.0\res
+com.example.solutionchallengeapp-play-services-basement-18.1.0-1 C:\Users\pranshu gupta\.gradle\caches\transforms-3\08471b039b6ee7dbfb774eb4a0a70dd8\transformed\play-services-basement-18.1.0\res
+com.example.solutionchallengeapp-core-runtime-2.2.0-2 C:\Users\pranshu gupta\.gradle\caches\transforms-3\0b17e709697e578b9527581ad9894992\transformed\core-runtime-2.2.0\res
+com.example.solutionchallengeapp-lifecycle-livedata-2.6.1-3 C:\Users\pranshu gupta\.gradle\caches\transforms-3\0ccf268adc75a994c433a19bf2ab6444\transformed\lifecycle-livedata-2.6.1\res
+com.example.solutionchallengeapp-activity-1.8.0-4 C:\Users\pranshu gupta\.gradle\caches\transforms-3\170d1f6ef6de058c2e68c9a4d5550061\transformed\activity-1.8.0\res
+com.example.solutionchallengeapp-cardview-1.0.0-5 C:\Users\pranshu gupta\.gradle\caches\transforms-3\1ceb6b1715966db2fe8d94627b1c945c\transformed\cardview-1.0.0\res
+com.example.solutionchallengeapp-profileinstaller-1.3.0-6 C:\Users\pranshu gupta\.gradle\caches\transforms-3\1fbbc1a54943ea2182fc7b4a5f5f1e36\transformed\profileinstaller-1.3.0\res
+com.example.solutionchallengeapp-transition-1.2.0-7 C:\Users\pranshu gupta\.gradle\caches\transforms-3\364360ccb48cab3ec5e9d7ad364289c7\transformed\transition-1.2.0\res
+com.example.solutionchallengeapp-emoji2-views-helper-1.2.0-8 C:\Users\pranshu gupta\.gradle\caches\transforms-3\37e5fa7863560a70be89eed2b8e6e982\transformed\emoji2-views-helper-1.2.0\res
+com.example.solutionchallengeapp-emoji2-1.2.0-9 C:\Users\pranshu gupta\.gradle\caches\transforms-3\409bb69def45319251075ac2df92e9d3\transformed\emoji2-1.2.0\res
+com.example.solutionchallengeapp-core-ktx-1.12.0-10 C:\Users\pranshu gupta\.gradle\caches\transforms-3\427873c6b7057645f04895a4049c81bd\transformed\core-ktx-1.12.0\res
+com.example.solutionchallengeapp-play-services-base-18.0.1-11 C:\Users\pranshu gupta\.gradle\caches\transforms-3\483be6463ae8640841a3b9a3a5481a8e\transformed\play-services-base-18.0.1\res
+com.example.solutionchallengeapp-lifecycle-viewmodel-2.6.1-12 C:\Users\pranshu gupta\.gradle\caches\transforms-3\660adcee34253964ae682bf6c357cd4b\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.solutionchallengeapp-material-1.11.0-13 C:\Users\pranshu gupta\.gradle\caches\transforms-3\69a441a0435274e720be05ba5602f9b4\transformed\material-1.11.0\res
+com.example.solutionchallengeapp-firebase-common-20.4.2-14 C:\Users\pranshu gupta\.gradle\caches\transforms-3\6e8bcf8e13f065bb8cb88c53262b9f70\transformed\firebase-common-20.4.2\res
+com.example.solutionchallengeapp-drawerlayout-1.1.1-15 C:\Users\pranshu gupta\.gradle\caches\transforms-3\93c686137aa664818791f5ed1499ad8b\transformed\drawerlayout-1.1.1\res
+com.example.solutionchallengeapp-lifecycle-process-2.6.1-16 C:\Users\pranshu gupta\.gradle\caches\transforms-3\9e1fc1befbcbf4e69406c3c436f9e550\transformed\lifecycle-process-2.6.1\res
+com.example.solutionchallengeapp-viewpager2-1.0.0-17 C:\Users\pranshu gupta\.gradle\caches\transforms-3\a34ef0d5aea49a3a1fe74f414f5cac77\transformed\viewpager2-1.0.0\res
+com.example.solutionchallengeapp-browser-1.4.0-18 C:\Users\pranshu gupta\.gradle\caches\transforms-3\a5a29c1c51904f51ff5b3676eb4b7c60\transformed\browser-1.4.0\res
+com.example.solutionchallengeapp-fragment-1.3.6-19 C:\Users\pranshu gupta\.gradle\caches\transforms-3\a5d643bb10e3bd510a65b6f56e165345\transformed\fragment-1.3.6\res
+com.example.solutionchallengeapp-savedstate-1.2.1-20 C:\Users\pranshu gupta\.gradle\caches\transforms-3\a75695f40e7884d4985c58986b99f298\transformed\savedstate-1.2.1\res
+com.example.solutionchallengeapp-recyclerview-1.1.0-21 C:\Users\pranshu gupta\.gradle\caches\transforms-3\b4d34e56af0270069daf0fc88621bc7e\transformed\recyclerview-1.1.0\res
+com.example.solutionchallengeapp-coordinatorlayout-1.1.0-22 C:\Users\pranshu gupta\.gradle\caches\transforms-3\be8f112d8cb356d449744434f18a3ac2\transformed\coordinatorlayout-1.1.0\res
+com.example.solutionchallengeapp-core-1.12.0-23 C:\Users\pranshu gupta\.gradle\caches\transforms-3\c75f5cf294b3c4ead684478c30f0497e\transformed\core-1.12.0\res
+com.example.solutionchallengeapp-constraintlayout-2.1.4-24 C:\Users\pranshu gupta\.gradle\caches\transforms-3\ccb0548c3e0ed27e73465f31aade944a\transformed\constraintlayout-2.1.4\res
+com.example.solutionchallengeapp-startup-runtime-1.1.1-25 C:\Users\pranshu gupta\.gradle\caches\transforms-3\cee8be2e8c9c354e71f92f2f89c0b1be\transformed\startup-runtime-1.1.1\res
+com.example.solutionchallengeapp-lifecycle-livedata-core-2.6.1-26 C:\Users\pranshu gupta\.gradle\caches\transforms-3\d7adf8780083c3812d6219ef29019dde\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.solutionchallengeapp-lifecycle-viewmodel-savedstate-2.6.1-27 C:\Users\pranshu gupta\.gradle\caches\transforms-3\e78014ef0b047e70a594d9245c470318\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.solutionchallengeapp-lifecycle-runtime-2.6.1-28 C:\Users\pranshu gupta\.gradle\caches\transforms-3\f722c93493800378ff888ff4271ee857\transformed\lifecycle-runtime-2.6.1\res
+com.example.solutionchallengeapp-appcompat-1.6.1-29 C:\Users\pranshu gupta\.gradle\caches\transforms-3\f7910153a680fce6fddbcfce49bfb0cb\transformed\appcompat-1.6.1\res
+com.example.solutionchallengeapp-appcompat-resources-1.6.1-30 C:\Users\pranshu gupta\.gradle\caches\transforms-3\fd449616a35391d8cf581ffbf8e125a8\transformed\appcompat-resources-1.6.1\res
+com.example.solutionchallengeapp-pngs-31 E:\new solution app\app\build\generated\res\pngs\debug
+com.example.solutionchallengeapp-res-32 E:\new solution app\app\build\generated\res\processDebugGoogleServices
+com.example.solutionchallengeapp-resValues-33 E:\new solution app\app\build\generated\res\resValues\debug
+com.example.solutionchallengeapp-packageDebugResources-34 E:\new solution app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.solutionchallengeapp-packageDebugResources-35 E:\new solution app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.solutionchallengeapp-merged_res-36 E:\new solution app\app\build\intermediates\merged_res\debug
+com.example.solutionchallengeapp-debug-37 E:\new solution app\app\src\debug\res
+com.example.solutionchallengeapp-main-38 E:\new solution app\app\src\main\res

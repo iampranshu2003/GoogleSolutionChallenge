@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.solutionchallengeapp-mergeDebugResources-34:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pranshu gupta\\.gradle\\caches\\transforms-3\\f7910153a680fce6fddbcfce49bfb0cb\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
