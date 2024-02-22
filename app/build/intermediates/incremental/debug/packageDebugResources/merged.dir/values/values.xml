@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F2EFDE</color>
+    <color name="black">#FF000000</color>
+    <color name="darkgreen">#146207</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SolutionChallengeApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">595588345443</string>
+    <string name="google_api_key" translatable="false">AIzaSyDBryp51EPIr_plEso163-NKQKWxHYqPVA</string>
+    <string name="google_app_id" translatable="false">1:595588345443:android:9345d00d28668324af1256</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDBryp51EPIr_plEso163-NKQKWxHYqPVA</string>
+    <string name="google_storage_bucket" translatable="false">solutionchallenge-12523.appspot.com</string>
+    <string name="project_id" translatable="false">solutionchallenge-12523</string>
+    <style name="Base.Theme.SolutionChallengeApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SolutionChallengeApp" parent="Base.Theme.SolutionChallengeApp"/>
+</resources>
